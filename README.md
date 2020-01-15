@@ -5,4 +5,5 @@
 `npm start`
 
 # API
-## localhost:3000/getTime?-4
+## localhost:3000/getTime
+`params` `zona:-4`
